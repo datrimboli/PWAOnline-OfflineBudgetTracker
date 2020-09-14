@@ -32,7 +32,7 @@ const checkDatabase = () => {
 
   getAll.onsuccess = () => {
     if (getAll.result.length > 0) {
-      fetch('/api/transaction/bulk', {
+      fetch('/api/budgets/bulk', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
