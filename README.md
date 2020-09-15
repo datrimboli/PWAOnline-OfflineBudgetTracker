@@ -12,3 +12,4 @@ Invest wisely!
 
 Link to deployed application: https://young-shore-75074.herokuapp.com/
 
+Screenshot of deployed application in screenshots folder.
