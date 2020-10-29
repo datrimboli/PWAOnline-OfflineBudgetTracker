@@ -4,4 +4,3 @@ With this Budget Tracker app, you can keep track of your savings and expendature
 
 Link to deployed application: https://young-shore-75074.herokuapp.com/
 
-Screenshot of deployed application in screenshots folder.
